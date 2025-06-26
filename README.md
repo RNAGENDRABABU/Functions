@@ -3,7 +3,7 @@
 
 Describe what the project does.
 
-Mention that it:
+Mention that it
 
 Stores recent billing records in Cosmos DB
 
@@ -14,6 +14,7 @@ Uses Azure Functions to automate this process
 Maintains API compatibility and no downtime
 
 Architecture Diagram
+
 architecture-diagram.png
 
 Serverless and scalable
